@@ -1,2 +1,0 @@
-# Facebook-hacking-tool
-Toola
